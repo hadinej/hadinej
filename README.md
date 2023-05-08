@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @hadinej
-- 👀 I’m interested in Deep learning and Machine learning
-- 🌱 I’m currently learning Data Science skills
-- 💞️ I’m looking for Masters thesis
-- 📫 Reach me --> (hadi.nejabat@studenti.polito.it)
+👋 Hi, I’m @hadinej
+I am a detail-oriented data scientist with a genuine interest in AI application and development. Skilled at quickly learning new processes and technologies, I am self-motivated with strong organizational and time management abilities.
 
-<!---
-hadinej/hadinej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Experience
+
+- Research Assistant, PoliTO, Turin (Remote)
+- Research Scientist / NLP Developer, Hubert, Stockholm
+
+## Education
+- MSc Data Science and Engineering
+- BSc Computer Science
+- BSc Engineering
+
+
+## Skills
+
+- Scientific Packs: TensorFlow, PyTorch, Scikit-learn, Flask, Pyspark, GraphX, NLTK, CUDA
+- Programming: Python, Java, MATLAB, Excel Micro
+- Optimization: dlib, MATLAB Optimization toolbox, Simulink
+- Databases: SQL, Mongo, Hadoop, Tableau, Git
+- Cloud: Azure, Colab
+
+📫 Reach me --> (hadi.nejabat@polito.it)
